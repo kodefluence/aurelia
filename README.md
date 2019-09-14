@@ -30,7 +30,7 @@ func main() {
 The hash result will be random every generation and the one of the result is:
 
 ```text
-
+AURELIA_4dd9b11ae216e0c231a330447adb8181f34ed8cd.1cace0ea1bca8bf2252b2b2a84148b630567772a.UC_46896b6a18f393cc6cbdf2664e0ba85ce7ba75db5d0e712eaedf690c337bfee2
 ```
 
 Authentication is simply like this:
