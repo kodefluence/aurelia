@@ -43,7 +43,7 @@ func main() {
   key := "key"
   hashed := "AURELIA_BABLABLABLABLA"
 
-  if aurelia.Authenticate(credential, key, hased) {
+  if aurelia.Authenticate(credential, key, hashed) {
     fmt.Println("Authentication success!")
   } else {
     fmt.Println("Authentication failed :(")
