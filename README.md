@@ -17,7 +17,7 @@ This library is inspired by a post in **crackstation** about how to make secure 
 Here is a simple step to generate a hash:
 
 ```go
-import "github.com/codefluence-x/aurelia"
+import "github.com/kodefluence/aurelia"
 
 func main() {
   credential := "credential"
@@ -36,7 +36,7 @@ AURELIA_4dd9b11ae216e0c231a330447adb8181f34ed8cd.1cace0ea1bca8bf2252b2b2a84148b6
 Authentication is simply like this:
 
 ```go
-import "github.com/codefluence-x/aurelia"
+import "github.com/kodefluence/aurelia"
 
 func main() {
   credential := "credential"

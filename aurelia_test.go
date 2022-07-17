@@ -3,7 +3,7 @@ package aurelia_test
 import (
 	"testing"
 
-	"github.com/codefluence-x/aurelia"
+	"github.com/kodefluence/aurelia"
 	"github.com/stretchr/testify/assert"
 )
 

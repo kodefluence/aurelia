@@ -1,4 +1,4 @@
-module github.com/codefluence-x/aurelia
+module github.com/kodefluence/aurelia
 
 go 1.12
 
